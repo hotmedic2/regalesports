@@ -39,7 +39,7 @@ module.exports = {
   Discord Music Bot Version: v${require("../package.json").version}
   [✨ Support Server](${
     client.config.SupportServer
-  }) | [GitHub](https://github.com/SudhanPlayz/Discord-MusicBot) | By [SudhanPlayz](https://github.com/SudhanPlayz)`);
+  }) | [Regal E-Sports Facebook](https://www.facebook.com/RegalEsports) | By [HotMedic2](https://www.youtube.com/watch?v=dQw4w9WgXcQ)`);
     if (!args[0]) message.channel.send(Embed);
     else {
       let cmd =
@@ -120,7 +120,7 @@ SlashCommand: {
   Discord Music Bot Version: v${require("../package.json").version}
   [✨ Support Server](${
     client.config.SupportServer
-  }) | [GitHub](https://github.com/SudhanPlayz/Discord-MusicBot) | By [SudhanPlayz](https://github.com/SudhanPlayz)`);
+  }) | [Regal E-Sports Facebook](https://www.facebook.com/RegalEsports) | By [HotMedic2](https://www.youtube.com/watch?v=dQw4w9WgXcQ)`);
       if (!args) return interaction.send(Embed);
       else {
         let cmd =
